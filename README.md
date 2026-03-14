@@ -164,9 +164,15 @@ https://www.pling.com/p/2351288
 # Credits
 
 **Adwaita**  
+
 Original theme by the GNOME project.
 
+**Gnome Shell**
+
+Fausto-Korpsvart
+
 **Gruvbox**  
+
 Color scheme by https://github.com/morhetz/gruvbox
 
 ---
