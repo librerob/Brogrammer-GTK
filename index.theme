@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Adwaita-Dark-Gruvbox
+Type=X-GNOME-Metatheme
+Comment=Adwaita Dark Gruvbox with Cinnamon desktop support
+Encoding=UTF-8
+GtkTheme=Adwaita-Dark-Gruvbox
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
