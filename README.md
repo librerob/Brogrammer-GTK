@@ -156,12 +156,6 @@ sudo ln -s ~/.themes/Adwaita-Dark-Gruvbox /usr/share/themes/
 
 ---
 
-# Also available at Pling
-
-https://www.pling.com/p/2351288
-
----
-
 # Credits
 
 **Adwaita**  
