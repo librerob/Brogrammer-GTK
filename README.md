@@ -48,6 +48,7 @@ A complete Gruvbox recolor of the classic Adwaita Dark GTK theme.
 | GTK3 | ✓ Full, all widget states |
 | GTK4 / libadwaita | ✓ See setup below |
 | Cinnamon 6.x shell | ✓ Panel, menus, OSD, dialogs, notifications |
+| Gnome Shell | ✓ Top bar, overview, notifications, quick settings, calendar |
 
 ---
 
