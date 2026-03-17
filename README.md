@@ -162,10 +162,6 @@ sudo ln -s ~/.themes/Brogrammer-GTK /usr/share/themes/
 
 Original theme by the GNOME project.
 
-**Gnome Shell**
-
-Fausto-Korpsvart
-
 **Brogrammer**  
 
 Color scheme by https://github.com/morhetz/Brogrammer
