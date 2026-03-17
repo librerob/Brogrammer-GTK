@@ -23,27 +23,27 @@
     <linearGradient
        id="linearGradient3768-6">
       <stop
-         style="stop-color:#0f0f0f;stop-opacity:1;"
+         style="stop-color:#141414;stop-opacity:1;"
          offset="0"
          id="stop3770-6" />
       <stop
          id="stop3778-2"
          offset="0.078125"
-         style="stop-color:#171717;stop-opacity:1;" />
+         style="stop-color:#141414;stop-opacity:1;" />
       <stop
-         style="stop-color:#171717;stop-opacity:1;"
+         style="stop-color:#141414;stop-opacity:1;"
          offset="0.97355771"
          id="stop3774-0" />
       <stop
-         style="stop-color:#1b1b1b;stop-opacity:1;"
+         style="stop-color:#141414;stop-opacity:1;"
          offset="1"
          id="stop3776-1" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ebdbb2"
-     bordercolor="#665c54"
+     pagecolor="#d6dbe5"
+     bordercolor="#4a4a4a"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -136,7 +136,7 @@
                  height="13"
                  width="13"
                  id="rect5147-9-1-5-7-6-7-4"
-                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#458588;fill-opacity:1;stroke:#1a1a1a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2a84d2;fill-opacity:1;stroke:#1a1a1a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                  ry="1.8571364" />
             </g>
           </g>
@@ -160,7 +160,7 @@
             <g
                id="g3981-0-8"
                transform="translate(-3,-4.9999826)"
-               style="fill:#3c3836;fill-opacity:1">
+               style="fill:#2e2e2e;fill-opacity:1">
               <rect
                  ry="0.66666085"
                  rx="0.66666085"
@@ -169,7 +169,7 @@
                  height="1.9999826"
                  width="5"
                  id="rect3977-39-90"
-                 style="fill:#3c3836;fill-opacity:1;stroke:none" />
+                 style="fill:#2e2e2e;fill-opacity:1;stroke:none" />
               <rect
                  ry="0"
                  y="1027.3622"
@@ -177,10 +177,10 @@
                  height="7.9999828"
                  width="2"
                  id="rect3979-7-60"
-                 style="fill:#3c3836;fill-opacity:1;stroke:none" />
+                 style="fill:#2e2e2e;fill-opacity:1;stroke:none" />
             </g>
             <rect
-               style="fill:#ebdbb2;fill-opacity:0;stroke:none"
+               style="fill:#d6dbe5;fill-opacity:0;stroke:none"
                id="rect4047-81-5"
                width="3"
                height="1"

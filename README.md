@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="./logo.png" alt="Adwaita Dark Gruvbox Logo" width="320">
+  <img src="./logo.png" alt="Brogrammer GTK Logo" width="320">
 </p>
 
-<h1 align="center">Adwaita Dark Gruvbox</h1>
+<h1 align="center">Brogrammer GTK</h1>
 
 <p align="center">
-A complete Gruvbox recolor of the classic Adwaita Dark GTK theme.
+A complete Brogrammer recolor of the classic Adwaita Dark GTK theme.
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/GTK-3%2F4-blue">
 <img src="https://img.shields.io/badge/Cinnamon-6.x-orange">
-<img src="https://img.shields.io/badge/Theme-Gruvbox-green">
+<img src="https://img.shields.io/badge/Theme-Brogrammer-green">
 </p>
 
 ---
 
 ## Preview
 
-![Adwaita Dark Gruvbox Preview](./preview.png)
+![Brogrammer GTK Preview](./preview.png)
 
 ---
 
@@ -26,17 +26,17 @@ A complete Gruvbox recolor of the classic Adwaita Dark GTK theme.
 
 | Element | Color |
 |--------|------|
-| Primary Accent | `#458588` |
-| Background | `#282828` |
-| Dark Surface | `#3c3836` |
-| Borders | `#504945` |
-| Primary Text | `#ebdbb2` |
-| Secondary Text | `#bdae93` |
-| Highlight Yellow | `#d79921` |
-| Success Green | `#98971a` |
-| Error Red | `#fb4934` |
-| Warning Orange | `#d65d0e` |
-| Purple Accent | `#b16286` |
+| Primary Accent | `#2a84d2` |
+| Background | `#1f1f1f` |
+| Dark Surface | `#2e2e2e` |
+| Borders | `#3a3a3a` |
+| Primary Text | `#d6dbe5` |
+| Secondary Text | `#8a8f9a` |
+| Highlight Yellow | `#ecba0f` |
+| Success Green | `#2dc55e` |
+| Error Red | `#f81118` |
+| Warning Orange | `#de352e` |
+| Purple Accent | `#4e5ab7` |
 
 ---
 
@@ -59,13 +59,13 @@ Clone the repository:
 ```bash
 mkdir -p ~/.themes
 
-git clone https://github.com/librerob/Adwaita-Dark-Gruvbox \
-~/.themes/Adwaita-Dark-Gruvbox
+git clone https://github.com/librerob/Brogrammer-GTK \
+~/.themes/Brogrammer-GTK
 
 # or
 
-git clone https://codeberg.org/librerob/Adwaita-Dark-Gruvbox \
-~/.themes/Adwaita-Dark-Gruvbox
+git clone https://codeberg.org/librerob/Brogrammer-GTK \
+~/.themes/Brogrammer-GTK
 ```
 
 Or download the archive and extract it to:
@@ -84,7 +84,7 @@ Desktop
 to:
 
 ```
-Adwaita-Dark-Gruvbox
+Brogrammer-GTK
 ```
 
 OR
@@ -94,9 +94,9 @@ Activate Theme (Terminal)
 Set the theme using gsettings:
 
 ```bash
-gsettings set org.cinnamon.desktop.interface gtk-theme 'Adwaita-Dark-Gruvbox'
-gsettings set org.cinnamon.desktop.wm.preferences theme 'Adwaita-Dark-Gruvbox'
-gsettings set org.cinnamon.theme name 'Adwaita-Dark-Gruvbox'
+gsettings set org.cinnamon.desktop.interface gtk-theme 'Brogrammer-GTK'
+gsettings set org.cinnamon.desktop.wm.preferences theme 'Brogrammer-GTK'
+gsettings set org.cinnamon.theme name 'Brogrammer-GTK'
 ```
 
 To reload the Cinnamon shell without logging out:
@@ -124,13 +124,13 @@ Copy the theme files:
 ```bash
 mkdir -p ~/.config/gtk-4.0
 
-cp -r ~/.themes/Adwaita-Dark-Gruvbox/gtk-4.0/assets \
+cp -r ~/.themes/Brogrammer-GTK/gtk-4.0/assets \
 ~/.config/gtk-4.0/
 
-cp ~/.themes/Adwaita-Dark-Gruvbox/gtk-4.0/gtk.css \
+cp ~/.themes/Brogrammer-GTK/gtk-4.0/gtk.css \
 ~/.config/gtk-4.0/
 
-cp ~/.themes/Adwaita-Dark-Gruvbox/gtk-4.0/gtk-dark.css \
+cp ~/.themes/Brogrammer-GTK/gtk-4.0/gtk-dark.css \
 ~/.config/gtk-4.0/
 ```
 
@@ -151,7 +151,7 @@ flatpak override --user \
 For programs run as **root**, create a symlink so the theme is visible system wide:
 
 ```bash
-sudo ln -s ~/.themes/Adwaita-Dark-Gruvbox /usr/share/themes/
+sudo ln -s ~/.themes/Brogrammer-GTK /usr/share/themes/
 ```
 
 ---
@@ -166,9 +166,9 @@ Original theme by the GNOME project.
 
 Fausto-Korpsvart
 
-**Gruvbox**  
+**Brogrammer**  
 
-Color scheme by https://github.com/morhetz/gruvbox
+Color scheme by https://github.com/morhetz/Brogrammer
 
 ---
 

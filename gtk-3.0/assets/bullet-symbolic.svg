@@ -34,7 +34,7 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     bordercolor="#665c54"
+     bordercolor="#4a4a4a"
      borderopacity="1"
      inkscape:current-layer="layer9"
      inkscape:cx="6.1684486"
@@ -46,7 +46,7 @@
      inkscape:object-nodes="true"
      inkscape:object-paths="false"
      objecttolerance="10"
-     pagecolor="#282828"
+     pagecolor="#1f1f1f"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      showborder="true"
@@ -90,7 +90,7 @@
       <stop
          id="stop19284"
          offset="0"
-         style="stop-color:#665c54;stop-opacity:1;" />
+         style="stop-color:#4a4a4a;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -104,7 +104,7 @@
        d="m 388.00015,341.99995 c -2.20743,0 -4.00005,1.79261 -4.00005,4.00005 0,2.20743 1.79262,4.00005 4.00005,4.00005 2.20743,0 4.00005,-1.79262 4.00005,-4.00005 0,-2.20744 -1.79262,-4.00005 -4.00005,-4.00005 z"
        id="path9555"
        sodipodi:nodetypes="csssc"
-       style="color:#ebdbb2;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ebdbb2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38899732;marker:none" />
+       style="color:#d6dbe5;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#d6dbe5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.38899732;marker:none" />
   </g>
   <g
      inkscape:groupmode="layer"

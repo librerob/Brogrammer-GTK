@@ -1,9 +1,9 @@
 [X-GNOME-Metatheme]
-Name=Adwaita-Dark-Gruvbox
+Name=Brogrammer-GTK
 Type=X-GNOME-Metatheme
-Comment=Adwaita Dark Gruvbox with Cinnamon desktop support
+Comment=Adwaita Dark recolored with the Brogrammer terminal color palette
 Encoding=UTF-8
-GtkTheme=Adwaita-Dark-Gruvbox
+GtkTheme=Brogrammer-GTK
 IconTheme=Adwaita
 CursorTheme=Adwaita
 CursorSize=24

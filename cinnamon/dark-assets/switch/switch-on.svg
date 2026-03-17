@@ -31,30 +31,30 @@
     <linearGradient
        id="linearGradient3768-6">
       <stop
-         style="stop-color:#0f0f0f;stop-opacity:1;"
+         style="stop-color:#141414;stop-opacity:1;"
          offset="0"
          id="stop3770-0" />
       <stop
          id="stop3778-6"
          offset="0.078125"
-         style="stop-color:#171717;stop-opacity:1;" />
+         style="stop-color:#141414;stop-opacity:1;" />
       <stop
-         style="stop-color:#171717;stop-opacity:1;"
+         style="stop-color:#141414;stop-opacity:1;"
          offset="0.97355771"
          id="stop3774-2" />
       <stop
-         style="stop-color:#1b1b1b;stop-opacity:1;"
+         style="stop-color:#141414;stop-opacity:1;"
          offset="1"
          id="stop3776-2" />
     </linearGradient>
     <linearGradient
        id="linearGradient3969-0-4">
       <stop
-         style="stop-color:#2d2d2d;stop-opacity:1;"
+         style="stop-color:#252525;stop-opacity:1;"
          offset="0"
          id="stop3971-2-6" />
       <stop
-         style="stop-color:#665c54;stop-opacity:1;"
+         style="stop-color:#4a4a4a;stop-opacity:1;"
          offset="1"
          id="stop3973-0-1" />
     </linearGradient>
@@ -63,11 +63,11 @@
       <stop
          id="stop3940"
          offset="0"
-         style="stop-color:#ebdbb2;stop-opacity:0;" />
+         style="stop-color:#d6dbe5;stop-opacity:0;" />
       <stop
          id="stop3942"
          offset="1"
-         style="stop-color:#ebdbb2;stop-opacity:0.54901963;" />
+         style="stop-color:#d6dbe5;stop-opacity:0.54901963;" />
     </linearGradient>
     <linearGradient
        id="linearGradient6523">
@@ -85,17 +85,17 @@
       <stop
          id="stop3940-4"
          offset="0"
-         style="stop-color:#c0c0c0;stop-opacity:1;" />
+         style="stop-color:#8a8f9a;stop-opacity:1;" />
       <stop
          id="stop3942-8"
          offset="1"
-         style="stop-color:#ebdbb2;stop-opacity:1;" />
+         style="stop-color:#d6dbe5;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ebdbb2"
-     bordercolor="#665c54"
+     pagecolor="#d6dbe5"
+     bordercolor="#4a4a4a"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -168,14 +168,14 @@
              id="g3900-1-87-0"
              transform="translate(0,-1004.3622)">
             <rect
-               style="display:inline;opacity:0;fill:#3c3836;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               style="display:inline;opacity:0;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                id="rect5465-3-3-3"
                width="52"
                height="24"
                x="0"
                y="1029.3622" />
             <rect
-               style="fill:#458588;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#2a84d2;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="rect2987-0-8-7"
                width="50"
                height="20"
@@ -184,7 +184,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#1f1f1f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path3759-0-75"
                cx="41"
                cy="1041.3622"
@@ -204,7 +204,7 @@
            height="1.9999826"
            width="5"
            id="rect3977-39-2-13"
-           style="display:inline;opacity:1;fill:#222222;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#1f1f1f;fill-opacity:1;stroke:none" />
         <rect
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
            ry="0"
@@ -213,7 +213,7 @@
            height="7.9999828"
            width="2"
            id="rect3979-7-0-65"
-           style="display:inline;opacity:1;fill:#222222;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#1f1f1f;fill-opacity:1;stroke:none" />
       </g>
     </g>
   </g>
