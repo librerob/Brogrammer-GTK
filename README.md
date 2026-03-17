@@ -120,7 +120,7 @@ sudo ln -s ~/.themes/Brogrammer-GTK /usr/share/themes/
 Original theme by the GNOME project.
 
 **Brogrammer**  
-Color scheme by https://github.com/morhetz/Brogrammer
+Color scheme by https://github.com/kenwheeler/brogrammer-theme
 
 ---
 # License
